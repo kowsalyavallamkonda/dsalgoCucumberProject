@@ -1,0 +1,517 @@
+
+14:30:45.799 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+14:30:48.763 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+14:30:49.052 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:49.067 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:30:49.797 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:49.813 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:30:50.420 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:50.440 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:30:51.141 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:30:51.255 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:30:54.169 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+14:30:54.535 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:54.554 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:30:54.890 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:54.904 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:30:55.497 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:55.519 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:30:56.329 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:30:56.427 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:30:59.378 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+14:30:59.743 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:30:59.756 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:31:00.026 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:00.042 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:31:00.664 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:00.681 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:31:01.506 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:31:01.633 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:31:04.553 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+14:31:04.836 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:04.849 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:31:05.115 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:05.131 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:31:05.732 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:05.751 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:31:06.541 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:31:06.651 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:31:09.487 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+14:31:09.837 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+14:31:12.777 [main] INFO  stepdefinitions.DataStructuresSD - The user clicks on datastructure getstarted button
+14:31:13.086 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+14:31:13.103 [main] INFO  stepdefinitions.DataStructuresSD - The User clicks on Time Complexity
+14:31:13.389 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:13.405 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:31:14.067 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:31:14.093 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:31:14.911 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:31:15.015 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:31:17.728 [main] INFO  stepdefinitions.DataStructuresSD - The user clicks on datastructure getstarted button
+14:31:18.027 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+14:31:18.044 [main] INFO  stepdefinitions.DataStructuresSD - The User clicks on Time Complexity
+14:31:18.368 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:31:19.123 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:31:19.751 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:31:19.856 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:32:09.050 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:09.062 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:09.825 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:09.838 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:13.590 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:13.609 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:14.317 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:14.330 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:14.982 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:15.082 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:32:18.478 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:18.491 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:19.069 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:19.083 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:19.862 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:19.979 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:32:23.435 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:23.446 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:24.051 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:24.068 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:24.885 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:24.977 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:32:28.405 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:28.417 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:29.043 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:29.068 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:29.779 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:29.890 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:32:33.424 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:33.436 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:33.992 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:34.006 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:34.703 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:34.818 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:32:38.183 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:38.192 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:38.747 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:32:38.764 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:32:39.575 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:39.711 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:32:43.056 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:43.699 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:32:44.279 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:44.377 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:32:48.177 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:48.826 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:32:49.468 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:49.567 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:32:53.423 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:54.228 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:32:54.877 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:32:54.976 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:32:58.849 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:32:59.496 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:33:00.121 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:33:00.234 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:33:04.025 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:33:04.690 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:33:05.281 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:33:05.396 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:33:09.210 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:33:09.774 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:33:10.355 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:33:10.452 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:33:14.281 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:33:14.298 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:33:14.966 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:33:15.557 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:33:15.658 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:34:02.923 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+14:34:06.168 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:34:06.179 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:34:06.748 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:34:06.760 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:34:07.629 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:34:07.728 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:34:11.124 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:34:11.139 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:34:11.778 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:34:11.791 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:34:12.461 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:34:12.566 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:34:15.848 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:34:15.869 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:34:16.531 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:34:16.554 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:34:17.337 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:34:17.451 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:34:20.923 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:34:21.492 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:34:22.099 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:34:22.211 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:34:25.999 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:34:26.625 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:34:27.258 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:34:27.377 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:34:31.211 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:34:31.893 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:34:32.487 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:34:32.585 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:41:38.326 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+14:41:38.659 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:41:38.679 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:41:39.207 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:41:39.223 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:41:40.020 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+14:41:40.044 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:41:40.905 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:33:35.533 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:33:35.870 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:35.884 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+15:33:38.064 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:38.081 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:33:38.557 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:38.569 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:33:39.184 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:33:39.276 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:33:42.575 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:33:42.803 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:42.812 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+15:33:43.036 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:43.049 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:33:43.605 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:43.617 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:33:44.273 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:33:44.351 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:33:46.554 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:33:46.782 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:46.793 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+15:33:47.007 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:47.018 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:33:47.598 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:33:47.610 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:33:48.268 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:33:48.339 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:33:50.500 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:33:50.735 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+15:40:41.567 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:40:41.804 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:41.815 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+15:40:42.222 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:42.230 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:40:42.738 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:42.750 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:40:43.385 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:40:43.451 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:40:45.613 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:40:45.849 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:45.858 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+15:40:46.046 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:46.054 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:40:46.604 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:46.619 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:40:47.254 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:40:47.319 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:40:49.429 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:40:49.676 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:49.686 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+15:40:49.942 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:49.954 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:40:50.509 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:50.520 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:40:51.144 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:40:51.213 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:40:53.272 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:40:53.474 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:53.484 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+15:40:53.727 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:53.736 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:40:54.233 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:40:54.245 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:40:54.885 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:40:54.961 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:40:57.038 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays Getstart button
+15:40:57.260 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+15:44:37.180 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:44:39.128 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+15:44:41.256 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+15:44:43.360 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+15:44:45.468 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+15:44:47.593 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+15:46:04.879 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:46:06.986 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+15:46:09.129 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+15:46:11.331 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+15:46:13.598 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+15:46:15.707 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+15:46:17.911 [main] INFO  stepdefinitions.DataStructuresSD - The user clicks on datastructure getstarted button
+15:46:18.158 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:46:18.168 [main] INFO  stepdefinitions.DataStructuresSD - The User clicks on Time Complexity
+15:46:18.380 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:46:18.390 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:46:18.949 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:46:18.957 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:46:19.587 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:46:19.668 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:46:21.602 [main] INFO  stepdefinitions.DataStructuresSD - The user clicks on datastructure getstarted button
+15:46:21.833 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:46:21.845 [main] INFO  stepdefinitions.DataStructuresSD - The User clicks on Time Complexity
+15:46:22.013 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:46:22.507 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:46:23.075 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:46:23.141 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:01.560 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:01.568 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:02.110 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:02.117 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:02.756 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:02.818 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:05.236 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:05.246 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:05.781 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:05.791 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:06.418 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:06.491 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:09.159 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:09.168 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:09.680 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:09.690 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:10.324 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:10.395 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:12.871 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:12.884 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:13.391 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:13.401 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:14.027 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:14.098 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:16.792 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:16.803 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:17.287 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:17.299 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:17.929 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:17.991 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:20.439 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:20.450 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:20.945 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:20.955 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:21.586 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:21.645 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:24.109 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:24.118 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:24.653 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:24.664 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:47:25.309 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:25.375 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:47:27.779 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:28.245 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:28.821 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:28.885 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:31.821 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:32.321 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:32.885 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:32.953 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:35.993 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:36.535 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:37.105 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:37.172 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:40.066 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:40.606 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:41.159 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:41.224 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:44.185 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:44.703 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:45.269 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:45.334 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:48.390 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:48.926 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:49.511 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:49.572 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:47:52.598 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:47:52.610 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:47:53.087 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:47:53.650 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:47:53.707 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:48:27.853 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:48:30.492 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:48:30.503 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:48:30.946 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:48:30.958 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:48:31.615 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:48:31.687 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:48:34.210 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:48:34.217 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:48:34.736 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:48:34.747 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:48:35.377 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:48:35.436 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:48:38.061 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:48:38.072 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:48:38.611 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title
+15:48:38.617 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:48:39.258 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:48:39.317 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:48:41.870 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:48:42.343 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:48:42.913 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:48:42.987 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:48:45.978 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:48:46.504 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:48:47.057 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:48:47.121 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:48:50.071 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:48:50.594 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:48:51.161 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:48:51.221 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:56:51.719 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:56:54.058 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+15:56:54.367 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+15:56:54.377 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:56:54.884 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:56:54.895 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:56:55.534 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:56:55.593 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:56:57.776 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+15:56:57.986 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+15:56:57.997 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:56:58.520 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:56:58.528 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:56:59.156 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:56:59.223 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:57:01.470 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+15:57:01.655 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+15:57:01.664 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:57:02.186 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:57:02.198 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:57:02.830 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:57:02.890 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:57:05.157 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+15:57:05.376 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+15:57:05.386 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:57:05.963 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:57:05.978 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:57:06.608 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:57:06.681 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:57:08.829 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+15:57:10.903 [main] INFO  stepdefinitions.DataStructuresSD - The user clicks on datastructure getstarted button
+15:57:11.135 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:57:11.144 [main] INFO  stepdefinitions.DataStructuresSD - The User clicks on Time Complexity
+15:57:11.370 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleTime Complexity
+15:57:11.378 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:57:11.904 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:57:11.911 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:57:12.548 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:57:12.607 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:57:14.705 [main] INFO  stepdefinitions.DataStructuresSD - The user clicks on datastructure getstarted button
+15:57:14.946 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:57:14.955 [main] INFO  stepdefinitions.DataStructuresSD - The User clicks on Time Complexity
+15:57:15.152 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:57:15.724 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:57:16.302 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:57:16.362 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:57:53.096 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleIntroduction
+15:57:53.106 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:57:53.590 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:57:53.599 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:57:54.240 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:57:54.312 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:57:56.827 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleCreating Linked LIst
+15:57:56.836 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:57:57.342 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:57:57.352 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:57:57.980 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:57:58.046 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:58:00.549 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleTypes of Linked List
+15:58:00.556 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:01.049 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:58:01.058 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:58:01.702 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:01.759 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:58:04.216 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleImplement Linked List in Python
+15:58:04.224 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:04.725 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:58:04.735 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:58:05.366 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:05.427 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:58:07.881 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleTraversal
+15:58:07.888 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:08.394 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:58:08.399 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:58:09.034 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:09.121 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:58:11.462 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleInsertion
+15:58:11.470 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:11.977 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:58:11.987 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:58:12.611 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:12.677 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:58:15.207 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleDeletion
+15:58:15.218 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:15.753 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:58:15.762 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:58:16.385 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:16.461 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:58:18.916 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:19.478 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:20.044 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:20.107 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:58:23.104 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:23.663 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:24.222 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:24.289 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:58:27.311 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:27.770 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:28.345 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:28.406 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:58:31.317 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:31.804 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:32.365 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:32.427 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:58:35.408 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:35.893 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:36.461 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:36.529 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:58:39.531 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:40.098 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:40.666 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:40.736 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:58:43.804 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleDeletion
+15:58:43.812 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:58:44.327 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:58:44.895 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:58:44.959 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:59:19.097 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with title
+15:59:21.586 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleOperations in Stack
+15:59:21.597 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:59:22.085 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:59:22.094 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:59:22.731 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:59:22.797 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:59:25.310 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleImplementation
+15:59:25.324 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:59:25.806 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:59:25.818 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:59:26.453 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:59:26.513 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:59:29.003 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications
+15:59:29.016 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:59:29.507 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+15:59:29.518 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+15:59:30.170 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:59:30.232 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+15:59:32.643 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:59:33.115 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:59:33.685 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:59:33.751 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:59:36.768 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:59:37.288 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:59:37.846 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:59:37.918 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+15:59:41.040 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+15:59:41.550 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+15:59:42.121 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+15:59:42.181 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+21:11:17.925 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+21:11:18.538 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+21:11:18.702 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+21:11:19.302 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+21:11:20.332 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+21:11:20.954 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+21:11:21.112 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+21:11:21.850 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python

@@ -1,0 +1,519 @@
+14:35:44.734 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:35:44.832 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:35:45.842 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:35:46.499 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:35:46.684 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:35:47.236 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:35:47.552 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Types of Linked List
+14:35:47.905 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleTypes of Linked List
+14:35:47.917 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:35:48.533 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:35:48.541 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:35:49.243 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:35:49.326 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:35:50.298 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:35:50.894 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:35:51.070 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:35:51.467 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:35:51.935 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Implement Linked List in Python
+14:35:52.182 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleImplement Linked List in Python
+14:35:52.195 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:35:52.832 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:35:52.852 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:35:53.522 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:35:53.601 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:35:54.642 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:35:55.375 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:35:55.538 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:35:55.915 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:35:56.377 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Traversal
+14:35:56.682 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleTraversal
+14:35:56.692 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:35:57.303 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:35:57.316 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:35:57.966 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:35:58.050 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:35:59.018 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:35:59.595 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:35:59.770 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:00.148 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:00.413 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Insertion
+14:36:00.729 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleInsertion
+14:36:00.743 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:01.540 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:36:01.554 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:36:02.211 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:02.294 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:36:03.282 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:03.938 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:04.115 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:04.524 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:04.848 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Insertion Deletion
+14:36:05.097 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleDeletion
+14:36:05.107 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:05.647 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:36:05.663 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:36:06.320 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:06.411 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:36:07.396 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:08.024 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:08.224 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:08.645 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:08.974 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Introduction
+14:36:09.409 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:10.052 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:10.656 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:10.750 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:12.181 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:12.780 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:12.944 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:13.346 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:13.738 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Creating Linked List
+14:36:14.027 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:14.567 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:15.135 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:15.222 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:16.734 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:17.324 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:17.501 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:17.891 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:18.196 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Types of Linked List
+14:36:18.547 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:19.099 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:19.683 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:19.775 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:21.215 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:21.829 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:22.016 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:22.523 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:22.861 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Implement Linked List in Python
+14:36:23.289 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:23.810 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:24.385 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:24.487 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:26.057 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:26.740 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:26.914 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:27.285 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:27.651 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Traversal
+14:36:27.890 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:28.457 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:29.050 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:29.135 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:30.643 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:31.621 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:31.753 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:32.151 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:32.526 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Insertion
+14:36:32.801 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:33.355 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:33.926 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:34.010 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:35.506 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:36:36.049 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:36:36.228 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:36:36.623 [main] INFO  stepdefinitions.LinkedListSD - The user is on LinkedList page
+14:36:36.892 [main] INFO  stepdefinitions.LinkedListSD - The user clicks on Insertion Deletion
+14:36:37.138 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleDeletion
+14:36:37.146 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:36:37.906 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:36:38.486 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:36:38.582 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:36:40.051 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:40.732 [main] INFO  stepdefinitions.RegisterSD - User click Register with all empty field
+14:36:40.800 [main] INFO  stepdefinitions.RegisterSD - User verify the message at username on Register Page as Please fill out this field.
+14:36:41.781 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:42.428 [main] INFO  stepdefinitions.RegisterSD - User click Register with username as numpyninja
+14:36:42.615 [main] INFO  stepdefinitions.RegisterSD - User verify the message at password on Register PagePlease fill out this field.
+14:36:43.664 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:44.254 [main] INFO  stepdefinitions.RegisterSD - User click Register with username asnumpyninja91and password asninjanumpy91
+14:36:44.741 [main] INFO  stepdefinitions.RegisterSD - User verify the message at confirmpassword on Register Page asPlease fill out this field.
+14:36:45.808 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:47.057 [main] INFO  stepdefinitions.RegisterSD - User click Register and verify thepassword_mismatch:The two password fields didn’t match.
+14:36:48.419 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:49.453 [main] INFO  stepdefinitions.RegisterSD - User click Register and verify thepassword_mismatch:The two password fields didn’t match.
+14:36:50.681 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:52.026 [main] INFO  stepdefinitions.RegisterSD - User click Register and verify thepassword_mismatch:The two password fields didn’t match.
+14:36:53.361 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:54.604 [main] INFO  stepdefinitions.RegisterSD - User click Register and verify thepassword_mismatch:The two password fields didn’t match.
+14:36:55.822 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:57.437 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:36:59.068 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:37:00.757 [main] INFO  stepdefinitions.RegisterSD - The user opens Register Page
+14:37:02.396 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:03.046 [main] INFO  stepdefinitions.SignInSD - User Clicks on Register link
+14:37:03.263 [main] INFO  stepdefinitions.SignInSD - User should be redirected to Register page
+14:37:04.307 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:05.008 [main] INFO  stepdefinitions.SignInSD - User clicks on login button with all empty field
+14:37:05.091 [main] INFO  stepdefinitions.SignInSD - User verify the message at username asPlease fill out this field.
+14:37:06.100 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:06.690 [main] INFO  stepdefinitions.SignInSD - User clicks on login button with username asnumpy
+14:37:06.884 [main] INFO  stepdefinitions.SignInSD - User verify the message at password as
+14:37:08.020 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:08.604 [main] INFO  stepdefinitions.SignInSD - User verify the message at password asnumpy
+14:37:08.793 [main] INFO  stepdefinitions.SignInSD - User verify the message at user asPlease fill out this field.
+14:37:09.827 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:10.403 [main] INFO  stepdefinitions.SignInSD - User enters username as abcdefgh
+14:37:10.502 [main] INFO  stepdefinitions.SignInSD - User enters password aszxyu1234
+14:37:10.608 [main] INFO  stepdefinitions.SignInSD - User clicks login button
+14:37:10.900 [main] INFO  stepdefinitions.SignInSD - User verify the message asInvalid Username and Password
+14:37:12.017 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:12.624 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25
+14:37:12.753 [main] INFO  stepdefinitions.SignInSD - User enters password asSaibaba25@
+14:37:12.861 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:13.352 [main] INFO  stepdefinitions.SignInSD - It should navigate to the home page with a message You are logged in  
+14:37:14.335 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:14.916 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:15.127 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:15.559 [main] INFO  stepdefinitions.SignInSD - User clicks on signout
+14:37:15.767 [main] INFO  stepdefinitions.SignInSD - Message displayed LoggedOut Successfully
+14:37:16.720 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:17.362 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:17.513 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:18.052 [main] INFO  stepdefinitions.StackSD - The user clicks on Stack getstarted button
+14:37:18.295 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleStack
+14:37:19.290 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:19.921 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:20.155 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:20.648 [main] INFO  stepdefinitions.StackSD - User is on Stack Page
+14:37:20.886 [main] INFO  stepdefinitions.StackSD - User clicks on Operations in Stack
+14:37:21.191 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleOperations in Stack
+14:37:21.198 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:37:21.800 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:37:21.808 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:37:22.463 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:37:22.544 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:37:23.612 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:24.230 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:24.375 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:24.725 [main] INFO  stepdefinitions.StackSD - User is on Stack Page
+14:37:24.943 [main] INFO  stepdefinitions.StackSD - The  user clicks on Implementation
+14:37:25.150 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleImplementation
+14:37:25.158 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:37:25.791 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:37:25.801 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:37:26.436 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:37:26.513 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:37:27.489 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:28.073 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:28.298 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:28.697 [main] INFO  stepdefinitions.StackSD - User is on Stack Page
+14:37:28.938 [main] INFO  stepdefinitions.StackSD - User clicks on Applications
+14:37:29.194 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications
+14:37:29.202 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:37:29.742 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:37:29.757 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:37:30.412 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:37:30.491 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:37:31.473 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:31.988 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:32.180 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:32.574 [main] INFO  stepdefinitions.StackSD - User is on Stack Page
+14:37:32.810 [main] INFO  stepdefinitions.StackSD - User clicks on Operations in Stack
+14:37:33.131 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:37:33.684 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:37:34.262 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:37:34.367 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:37:35.864 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:36.458 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:36.662 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:37.036 [main] INFO  stepdefinitions.StackSD - User is on Stack Page
+14:37:37.284 [main] INFO  stepdefinitions.StackSD - The  user clicks on Implementation
+14:37:37.474 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:37:38.174 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:37:38.750 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:37:38.827 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:37:40.376 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:37:41.070 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:37:41.312 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:37:41.813 [main] INFO  stepdefinitions.StackSD - User is on Stack Page
+14:37:42.115 [main] INFO  stepdefinitions.StackSD - User clicks on Applications
+14:37:42.453 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:37:43.117 [main] INFO  stepdefinitions.DataStructuresSD - user enters the wrong Python code
+14:37:43.779 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:37:43.902 [main] INFO  stepdefinitions.DataStructuresSD - The alert message has to be displayed
+14:41:05.128 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:41:05.729 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:41:05.900 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:41:06.572 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+14:41:07.581 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:41:08.080 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:41:08.260 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:41:08.959 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:41:09.498 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+14:41:09.508 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:41:10.121 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:41:10.144 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:41:10.837 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:41:10.957 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:41:12.029 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:41:12.672 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:41:12.911 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:41:13.733 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:41:14.060 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+14:41:14.073 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:41:14.698 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:41:14.720 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:41:15.467 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:41:15.581 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:41:16.681 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:41:17.325 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:41:17.528 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:41:18.256 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:41:18.581 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+14:41:18.591 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:41:19.252 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:41:19.271 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:41:20.119 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:41:20.255 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:41:21.305 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:41:22.005 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:41:22.200 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:41:23.084 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:41:23.398 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+14:41:23.432 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:41:23.992 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:41:24.011 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:41:24.787 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:41:24.924 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:41:26.002 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:41:26.694 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:41:26.959 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:41:27.837 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+14:41:28.692 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title Practice Questions 
+14:42:09.316 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:42:09.999 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:42:10.192 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:42:10.873 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+14:42:11.925 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:42:12.521 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:42:12.686 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:42:13.589 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:42:14.324 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+14:42:14.336 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:42:15.016 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:42:15.031 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:42:15.879 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:42:15.994 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:42:17.064 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:42:17.639 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:42:17.867 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:42:18.758 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:42:19.080 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+14:42:19.099 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:42:19.906 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:42:19.918 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:42:20.623 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:42:20.735 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:42:21.837 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:42:22.523 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:42:22.752 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:42:23.502 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:42:23.771 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+14:42:23.786 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:42:24.464 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:42:24.482 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:42:25.291 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:42:25.393 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:42:26.455 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:42:27.046 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:42:27.290 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:42:28.070 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:42:28.336 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+14:42:28.351 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:42:28.967 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:42:28.985 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:42:29.748 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:42:29.877 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:42:30.960 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:42:31.619 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:42:31.941 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:42:32.739 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+14:42:34.009 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title Practice Questions 
+14:43:14.103 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:43:14.636 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:43:14.841 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:43:15.493 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+14:43:16.546 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:43:17.217 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:43:17.435 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:43:18.513 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:43:19.093 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+14:43:19.115 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:43:19.768 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:43:19.796 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:43:20.634 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:43:20.736 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:43:21.872 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:43:22.832 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:43:23.064 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:43:23.824 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:43:24.188 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+14:43:24.199 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:43:25.378 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:43:25.394 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:43:26.140 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:43:26.243 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:43:27.270 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:43:27.915 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:43:28.165 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:43:28.997 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:43:29.336 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+14:43:29.350 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:43:30.006 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:43:30.017 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:43:30.717 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:43:30.823 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:43:31.927 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:43:32.579 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:43:32.809 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:43:33.706 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:43:34.034 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+14:43:34.051 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:43:34.675 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:43:34.693 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:43:35.449 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:43:35.549 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:43:36.623 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:43:37.455 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:43:37.712 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:43:38.546 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+14:43:39.986 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title Practice Questions 
+14:46:48.452 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:46:49.101 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:46:49.261 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:46:50.459 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+14:46:51.457 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:46:52.181 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:46:52.347 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:46:53.128 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:46:53.545 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+14:46:53.553 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:46:54.345 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:46:54.361 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:46:55.031 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:46:55.108 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:46:56.100 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:46:56.699 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:46:56.864 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:46:57.557 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:46:57.800 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+14:46:57.809 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:46:58.345 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:46:58.363 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:46:59.029 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:46:59.111 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:47:00.119 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:47:00.868 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:47:01.021 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:47:01.811 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:47:02.116 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+14:47:02.125 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:47:02.856 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:47:02.866 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:47:03.517 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:47:03.604 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:47:04.603 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:47:05.355 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:47:05.576 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:47:06.337 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:47:06.611 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+14:47:06.620 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:47:07.246 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:47:07.260 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:47:07.914 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:47:08.003 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:47:09.003 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:47:09.569 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:47:09.737 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:47:10.689 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+14:47:14.849 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title Practice Questions 
+14:47:55.964 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:47:56.541 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:47:56.725 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:47:57.332 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+14:47:58.414 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:47:59.030 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:47:59.206 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:47:59.854 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:48:00.256 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+14:48:00.275 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:48:00.824 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:48:00.843 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:48:01.512 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:48:01.601 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:48:02.666 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:48:03.238 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:48:03.432 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:48:04.064 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:48:04.274 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+14:48:04.284 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:48:04.805 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:48:04.816 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:48:05.471 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:48:05.558 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:48:06.593 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:48:07.120 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:48:07.283 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:48:07.891 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:48:08.093 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+14:48:08.101 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:48:08.646 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:48:08.663 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:48:09.363 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:48:09.452 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:48:10.453 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:48:11.017 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:48:11.198 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:48:11.911 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:48:12.087 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+14:48:12.098 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:48:12.869 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:48:12.882 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:48:13.563 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:48:13.648 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:48:14.705 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:48:15.287 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:48:15.449 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:48:16.237 [main] INFO  stepdefinitions.ArraysSD - User clicks on Practice Questions
+14:48:20.282 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with title Practice Questions 
+14:48:59.631 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:49:00.249 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:49:00.418 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:49:01.046 [main] INFO  stepdefinitions.DataStructuresSD - The user redirected to page with titleArray
+14:49:02.055 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:49:02.653 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:49:02.857 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:49:03.536 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays in python
+14:49:04.173 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays in Python
+14:49:04.184 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:49:04.852 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:49:04.866 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:49:05.524 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:49:05.607 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:49:06.619 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:49:07.176 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:49:07.324 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:49:07.991 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Arrays using list link
+14:49:08.279 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleArrays Using List
+14:49:08.288 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:49:08.903 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:49:08.916 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:49:09.600 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:49:09.681 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:49:10.705 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:49:11.316 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:49:11.481 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:49:12.159 [main] INFO  stepdefinitions.ArraysSD - User Clicks on Basic Operation in Lists
+14:49:12.418 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleBasic Operations in Lists
+14:49:12.425 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
+14:49:12.974 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleAssessment
+14:49:12.987 [main] INFO  stepdefinitions.DataStructuresSD - user enter the Python code
+14:49:13.654 [main] INFO  stepdefinitions.DataStructuresSD - click on run button
+14:49:13.748 [main] INFO  stepdefinitions.DataStructuresSD - The output has to be displayed
+14:49:14.791 [main] INFO  stepdefinitions.SignInSD - User is on SignIn page
+14:49:15.416 [main] INFO  stepdefinitions.SignInSD - User enters username as Kowsalya25and password asSaibaba25@
+14:49:15.589 [main] INFO  stepdefinitions.SignInSD - User clicks on login button
+14:49:16.326 [main] INFO  stepdefinitions.ArraysSD - User clicks on Applications of arrays
+14:49:16.570 [main] INFO  stepdefinitions.DataStructuresSD - It should navigate to corresponding page with titleApplications of Array
+14:49:16.579 [main] INFO  stepdefinitions.DataStructuresSD - user click on Try here button
